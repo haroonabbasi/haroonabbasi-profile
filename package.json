@@ -1,0 +1,15 @@
+{
+  "name": "HaroonAbbasi-Profile",
+  "author": "HaroonAbbasi",
+  "description": "An Web developer Profile.",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.0.0rc1",
+    "jade": "*",
+    "stylus": "*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
