@@ -1,9 +1,9 @@
-Node.js Bootstrap Starter Template
+Node.js Bootstrap based single page profile 
 
-A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
+Node.js + Jade template project, using Twitter Bootstrap.
 
-Demo:
-http://nodebootstrapper.herokuapp.com
+link:
+http://haroonabbasi.herokuapp.com
 
 Contents:
 
@@ -20,5 +20,5 @@ extends layout
 
 block content
 	div.container
-		h1 Program Name
-		p Hello World
+
+		
